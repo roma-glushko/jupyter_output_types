@@ -10,4 +10,4 @@ poetry install
 
 Then, open `jupyter-interactive-dataviz-widgets.ipynb` and see all outputs in action.
 
-The code is also available on [Kaggle](https://www.kaggle.com/glushko/jupyter-interactive-dataviz-widgets?scriptVersionId=85783909)
+The code is also available on [Kaggle](https://www.kaggle.com/glushko/jupyter-interactive-dataviz-widgets)
